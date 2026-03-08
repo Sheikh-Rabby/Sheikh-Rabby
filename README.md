@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0075b6&background=00000000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ismail+Hossain+Naim;Backend+Engineer+(.NET+%2B+Node);Full+Stack+Enthusiast;Database+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0075b6&background=00000000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Kawsar+Sheikh+Rabby;Backend+Engineer+(.NET+%2B+Node);Full+Stack+Enthusiast;Database+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/ihnofficial">
+  <a href="https://github.com/Sheikh-Rabby">
     <img src="https://komarev.com/ghpvc/?username=ihnofficial&label=Profile%20views&color=0e75b6&style=flat-square" alt="ihnofficial" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://facebook.com/ihnaimbd/" target="_blank">
+  <a href="https://facebook.com/shak.Rabby.77/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/devihnaim/" target="_blank">
