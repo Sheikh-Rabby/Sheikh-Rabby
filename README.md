@@ -33,9 +33,9 @@
         I am a passionate <strong>Software Engineer</strong> specializing in scalable backend systems and modern web architecture. I bridge the gap between <strong>.NET Enterprise</strong> environments and the <strong>JavaScript</strong> ecosystem.
       </p>
       <ul>
-        <li>🔭 Currently working on: <strong>Accounting ERP with Blazor</strong></li>
+        <li>🔭 Currently working on: <strong>Accounting ERP with Asp.netCore</strong></li>
         <li>💻 Backend Stack: <strong>.NET Core, MVC, Node.js</strong></li>
-        <li>🎨 Frontend Stack: <strong>Next.js, TailwindCSS</strong></li>
+        <li>🎨 Frontend Stack: <strong> Bootstarp,TailwindCSS, React.js</strong></li>
         <li>🌱 Learning: <strong>Advanced Microservices ,Node & DevOps</strong></li>
         <li>🤝 Looking to collaborate on: <strong>Open Source Projects</strong></li>
       </ul>
@@ -84,36 +84,12 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
 
-<br/>
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
 
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ihnofficial&theme=dracula" alt="Stats" />
-  
-  <br />
-  
-  <!-- Languages & Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ihnofficial&theme=dracula&utcOffset=6" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihnofficial&theme=dracula" alt="Languages" />
-</div>
 
-<br/>
 
-<!-- SNAKE ANIMATION (Requires GitHub Action to work) -->
-<!-- If you haven't set up the action yet, this area will be blank until you do. -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihnofficial/ihnofficial/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihnofficial/ihnofficial/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ihnofficial/ihnofficial/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
-<br/>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-Life-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
