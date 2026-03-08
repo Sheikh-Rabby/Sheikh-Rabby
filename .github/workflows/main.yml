@@ -1,25 +1,30 @@
-name: Generate Snake Animation
+name: Update GitHub Profile README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: '0 * * * *' # প্রতি ঘন্টায় update
+  push:
+    branches:
+      - main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+
+      # Optional: generate activity graph (if using github-readme-activity-graph)
+      - name: Generate Contribution Graph
+        uses: ar7d/github-readme-activity-graph@v2
         with:
-          github_user_name: MehediHasan-482
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          username: Sheikh-Rabby
+          theme: react-dark
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update activity graph" || echo "No changes to commit"
+          git push
