@@ -82,13 +82,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
 
-
-
-
-
-
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/Code-Life-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheikh-Rabby&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
