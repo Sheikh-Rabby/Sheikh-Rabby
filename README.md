@@ -86,8 +86,4 @@
   <img src="https://img.shields.io/badge/Code-Life-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheikh-Rabby&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheikh-Rabby&show_icons=true&theme=tokyonight" />
-</div>
